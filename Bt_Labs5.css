@@ -1,0 +1,20 @@
+.form-group{
+	width: 50%;
+	height: 50%;
+	margin: 10px 0px;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+.form-group input{
+	border-radius: 3px;
+	float: right;
+}
+
+body{
+	padding: 0px 15% 0px 25%;
+}
+
+.css{
+	padding-left: 26%;
+}

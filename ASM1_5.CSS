@@ -1,0 +1,139 @@
+header{
+	background-image: url(anh/sinhvien.png) ;
+	background-size: 100% 100%;
+	padding-bottom: 25%;
+}
+
+nav{
+	text-align: center;
+	max-width: 100%;
+	height: 170px;
+	border: 1px solid black;
+	background: white;
+	background: orange;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	padding-left: 40px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	font-variant: small-caps;
+	font-weight: bold;
+	color: black;
+	font-size: 20px;
+}
+
+nav ul li a:hover{
+	color: darkred;
+}
+
+nav .timkiem{
+	float: right;
+	width: 400px;
+	height: 50px;
+}
+
+nav .timkiem input{
+	width: 150px;
+	height: 30px;
+}
+
+nav .timkiem button{
+	width: 80px;
+	height: 30px;
+	background: darkblue;
+	color: black;
+	font-weight: bold;
+}
+
+
+article{
+	height: 2030px;
+	background: white;
+	border: 1px solid black;
+}
+
+.anh{
+	background-image: url(anh/anh05.png);
+	background-size: 100% 100%;
+	padding-bottom: 15%;
+}
+
+#left{
+	width: 15%;
+	float: left;
+	background: white;
+	color: white;
+}
+
+#noidung{
+	padding: 0px 20px 0px 20px;
+	width: 70%;
+	height: 1800px;
+	float: left;
+	background: white;
+	box-shadow: inset 0px 0px 3px #AAA; 
+}
+
+table{
+	border-collapse: collapse;
+	border: 1px solid #C9c5c5;
+}
+
+table tr th{
+	width: 330px;
+	height: 100px;
+	border-collapse: collapse;
+	border-color: #C9c5c5;
+}
+
+table tr td{
+	width: 330px;
+	height: 70px;
+	border-collapse: collapse;
+	border: 1px solid #C9c5c5;
+	text-align: center;
+}
+
+.chudam{
+	font-weight: bold;
+	float: left;
+	padding-left: 20PX;
+	font-variant: small-caps;
+}
+
+
+footer{
+	height: 200px;
+	background: #16244e;
+	box-shadow: 0px 0px 0px 5px orangered;
+}
+
+P{
+	color: orangered;
+	font-weight: bold;
+}
+
+#left1{
+	width: 15%;
+	height: 150px;
+	float: left;
+}
+
+#left1 img{
+	padding: 30px 0px 0px 30px ;
+}
+
+#noidung1{
+	width: 50%;
+	height: 150px;
+	float: right;
+}
+
+#noidung1{
+	padding: 30px 0px 0px 30px;
+}
